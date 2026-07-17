@@ -8,7 +8,7 @@ Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas (UNTRM)
 Facultad de Ingeniería de Sistemas y Mecánica Eléctrica (FISME) — Bagua, Amazonas, Perú
 
 [![Email](https://img.shields.io/badge/Email-6021807141%40untrm.edu.pe-D14836?style=flat&logo=gmail&logoColor=white)](mailto:6021807141@untrm.edu.pe)
-[![GitHub](https://img.shields.io/badge/GitHub-kingstons18-181717?style=flat&logo=github&logoColor=white)](https://github.com/KingDev-svg)
+[![GitHub](https://img.shields.io/badge/GitHub-KingDev--svg-181717?style=flat&logo=github&logoColor=white)](https://github.com/KingDev-svg)
 
 </div>
 
@@ -53,15 +53,15 @@ Actualmente en formación en desarrollo web, aplicaciones empresariales de escri
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingstons18&show_icons=true&theme=default&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kingstons18&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingDev-svg&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KingDev-svg&hide_border=true)
 
 </div>
 
 ## Contacto
 
 - **Correo institucional:** 6021807141@untrm.edu.pe
-- **GitHub:** [@kingstons18](https://github.com/kingstons18)
+- **GitHub:** [@KingDev-svg](https://github.com/KingDev-svg)
 
 ---
 
