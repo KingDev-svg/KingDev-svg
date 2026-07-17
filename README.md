@@ -8,7 +8,7 @@ Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas (UNTRM)
 Facultad de Ingeniería de Sistemas y Mecánica Eléctrica (FISME) — Bagua, Amazonas, Perú
 
 [![Email](https://img.shields.io/badge/Email-6021807141%40untrm.edu.pe-D14836?style=flat&logo=gmail&logoColor=white)](mailto:6021807141@untrm.edu.pe)
-[![GitHub](https://img.shields.io/badge/GitHub-kingstons18-181717?style=flat&logo=github&logoColor=white)](https://github.com/kingstons18)
+[![GitHub](https://img.shields.io/badge/GitHub-kingstons18-181717?style=flat&logo=github&logoColor=white)](https://github.com/KingDev-svg)
 
 </div>
 
